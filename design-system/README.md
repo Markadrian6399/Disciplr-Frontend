@@ -20,6 +20,8 @@ For a token-to-component map, see `documentation/token-catalog.md`.
 
 - [`MilestoneTracker`](documentation/milestone-tracker.md) - ordered vault
   milestone progress with status badges and current-step accessibility.
+- [`VaultProgressBar`](documentation/vault-progress-bar.md) - shared vault
+  progress primitive with clamped values and ARIA progressbar semantics.
 
 ## Responsive breakpoints
 
